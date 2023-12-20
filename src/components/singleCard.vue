@@ -29,6 +29,8 @@ export default {
         margin-left: 0.5rem;
         margin-right: 0.5rem;
         margin-bottom: 0.5rem;
+        padding: 0;
+        border-radius: 0;
         img{
             width: 100%;
         }
